@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer class="page-footer blue darken-4"style="position:fixed;bottom:0;left:0;width:100%;">
+    <div class="footer-copyright blue darken-4">
+        <div class="container"style="text-align: center">
+            © 2021 Copyright Text - Amortização
+            
+        </div>
+    </div>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
